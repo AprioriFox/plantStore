@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    margin: 0 auto;
+    font-size: 160px;
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+.firstTwo {
+    display: flex;
+    justify-content: space-between;
+}
+.main .bigPic span{
+    display: block;
+    width: 700px;
+    height: 700px;
+    border: 1px solid #000;
+
+}
+.main .smallPic span{
+    display: block;
+    width: 350px;
+    height: 420px;
+    border: 1px solid #000;
+}
+.picText {
+    display: flex;
+    justify-content: space-between;
+}
+.thirdThree {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
