@@ -62,6 +62,11 @@ nav p{
     background-position: center;
     background-image: url('../images/6b5facda2a9a7bfa4ca55f120f32bb20.jpg')
 }
+.philis {
+    background-size: cover;
+    background-position: center;
+    background-image: url('../images/a55d7fc3fa0438975c7c4a4629f24cef.jpg')
+}
 .picText {
     display: flex;
     justify-content: space-between;
